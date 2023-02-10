@@ -1,9 +1,9 @@
 {
-  "name": "nft-multiclaim",
+  "name": "nft-contracts",
   "private": true,
   "main": "index.js",
   "author": "Kieran Mesquita",
-  "description": "NFT contract supporting multiple merkle trees for claiming",
+  "description": "A collection of useful NFT contracts based on ERC721A",
   "license": "MIT",
   "scripts": {
     "lint": "solhint 'contracts/**/*.sol'; prettier --check './**'; eslint .",
